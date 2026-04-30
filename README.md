@@ -13,9 +13,8 @@ I'm Rex, a self-motivated tech enthusiast and  developer.
 
 <br/>
 <h3 align="center">
-My Tech Stacks
-</h3>
+"A language that doesn't affect the way you think about programming is not worth knowing." — Alan Perlis" </h3>
 
 <h3 align="center">
-<img src="" alt="stacks"/>
+<img src="https://raw.githubusercontent.com/RexKaze/RexKaze/refs/heads/main/foot_banner.png" alt="stacks"/>
 </h3>
